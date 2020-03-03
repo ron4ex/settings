@@ -149,7 +149,6 @@ module.exports = {
   //   `project#1.0.1`
   plugins: [
     "hyper-snazzy",
-    "hypercwd",
     "hyper-statusline",
     "hyperterm-dibdabs",
   ],
